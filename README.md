@@ -8,7 +8,7 @@
 **Transform any location into an immersive 360° virtual experience**
 
 [Demo](https://your-demo-link.com) • 
-[Documentation](https://your-docs-link.com) • 
+[Documentation](https://docs.google.com/document/d/1Bxo46xPVrj0WlAr_DmDYg3xq9eW095YrQu0S5QPdp2I/edit?usp=sharing) • 
 [Support](https://wplicense.webronics.com/360-contact/) • 
 [Pro Version](https://wplicense.webronics.com/pricing/)
 
