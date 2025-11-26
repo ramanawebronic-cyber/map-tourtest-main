@@ -18,14 +18,14 @@
 
 ## ✨ About Webronic 360 Tour
 
-Step into the future of virtual exploration with **Webronic 360 Tour** – the ultimate WordPress plugin for creating stunning, interactive 360-degree virtual tours. Whether you're showcasing real estate properties, museum exhibits, hotel rooms, business spaces, or tourist destinations, bring your locations to life with immersive panoramic experiences that captivate your audience.
+Step into the future of virtual exploration with **Virtual Tour 360**– the ultimate WordPress plugin for creating stunning, interactive 360-degree virtual tours. Whether you're showcasing real estate properties, museum exhibits, hotel rooms, business spaces, or tourist destinations, bring your locations to life with immersive panoramic experiences that captivate your audience.
 
 With Webronic 360 Tour, you don't just show places – you transport visitors directly into them. Let your users explore every angle, discover hidden details, and navigate seamlessly through spaces as if they were physically there. Perfect for businesses, photographers, real estate agents, tour operators, educational institutions, and anyone looking to create engaging virtual experiences..
 
 
 ---
 
-## 🚀 Why Choose Webronic 360 Tour?
+## 🚀 Why Choose Virtual Tour 360?
 
 ### Create Stunning Virtual Tours In Just 3 Simple Steps
 
@@ -58,76 +58,7 @@ Right-click anywhere on your panorama to place interactive hotspots. Share infor
 </tr>
 </table>
 
----
 
-## 📸 Screenshots
-
-<details>
-<summary><strong>🖼️ Click to view all screenshots</strong></summary>
-
-### Main Dashboard
-<img src="https://wpdemo.webronics.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-182059.png" width="1908" height="882" alt="Main Dashboard">
-*Create unlimited tours with an intuitive dashboard. Free users get 1 tour with 5 scenes and 5 hotspots to get started.*
-
-### Tour Creation Interface
-![Tour Creation]()
-*Add new tours with a single click. The clean interface makes tour management effortless.*
-
-### Tour Edit Screen
-![Edit Tour](screenshots/screen3.jpg)
-*Edit your tours easily with full control over settings, scenes, and hotspots.*
-
-### Upgrade Options
-![Upgrade Button](screenshots/screen4.jpg)
-*Free users can upgrade anytime to unlock unlimited scenes and hotspots with the Pro version.*
-
-### Scene Management
-![Add Scenes](screenshots/screen5.jpg)
-*Add up to 5 scenes for free users, unlimited for Pro. Simple scene management with drag-and-drop support.*
-
-### Scene Limit Notification
-![Scene Limit](screenshots/screen6.jpg)
-*Clear notifications when you reach the free tier limit. Upgrade seamlessly to continue creating.*
-
-### Panorama Viewer
-![360 Viewer](screenshots/screen7.jpg)
-*High-quality 360° panorama viewer with smooth navigation and controls.*
-
-### Hotspot Placement
-![Add Hotspots](screenshots/screen8.jpg)
-*Right-click anywhere on your panorama to add hotspots instantly.*
-
-### Navigation Hotspots
-![Navigation Type](screenshots/screen9.jpg)
-*Connect scenes with navigation hotspots for seamless tour flow.*
-
-### Information Hotspots
-![Information Type](screenshots/screen10.jpg)
-*Share detailed information about locations with information hotspots.*
-
-### Hotspot Content Options
-![Hotspot Content](screenshots/screen11.jpg)
-*Embed text, images, videos, GIFs, and website links in your hotspots.*
-
-### Shortcode Integration
-![Shortcode](screenshots/screen12.jpg)
-*Get your tour shortcode instantly and embed it anywhere on your WordPress site.*
-
-### Elementor Widget
-![Elementor Widget](screenshots/screen13.jpg)
-*Drag and drop tours into any page with built-in Elementor widget support.*
-
-### Mobile Responsive View
-![Mobile View](screenshots/screen14.jpg)
-*Fully responsive tours that work beautifully on all devices.*
-
-### Frontend Tour Display
-![Frontend Display](screenshots/screen15.jpg)
-*Immersive full-window virtual tours that engage your visitors instantly.*
-
-</details>
-
----
 
 ## 🎁 Free Features
 
