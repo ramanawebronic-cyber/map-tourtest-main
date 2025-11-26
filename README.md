@@ -10,7 +10,7 @@
 [Demo](https://your-demo-link.com) • 
 [Documentation](https://your-docs-link.com) • 
 [Support](https://wplicense.webronics.com/360-contact/) • 
-[Pro Version](https://wplicense.webronics.com/checkout/?add-to-cart=189)
+[Pro Version](https://wplicense.webronics.com/pricing/)
 
 </div>
 
